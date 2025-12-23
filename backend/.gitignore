@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+.DS_Store
+
+# User uploads (Don't upload test receipts)
+backend/uploads/
+*.png
+*.jpg

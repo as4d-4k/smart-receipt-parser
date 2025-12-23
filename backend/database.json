@@ -1,0 +1,2854 @@
+[
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97"
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00"
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88"
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24"
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "442.77",
+        "date": "Unknown",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00"
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77"
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET 7\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025 a\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card -\nPayment Method: Vsa **** *#+\u00ab \u00ab+x 1934\nitem Qty Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00 a\nVAT (23%): \u20ac 643.77 . -\nTotal Paid \u20ac 3,442.77 :\nThank you for shopping at Apple :\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "items": [],
+        "raw_text": "Suvour Food:\n\nau Tote ; Re 12/690 |\nPRA | See\n5 OPE\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "442.77",
+        "date": "Unknown",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00",
+                "qty": 1
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77",
+                "qty": 1
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET 7\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025 a\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card -\nPayment Method: Vsa **** *#+\u00ab \u00ab+x 1934\nitem Qty Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00 a\nVAT (23%): \u20ac 643.77 . -\nTotal Paid \u20ac 3,442.77 :\nThank you for shopping at Apple :\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "currency": "$",
+        "total": "0.99",
+        "date": "30/01/22",
+        "items": [
+            {
+                "name": "ME TA A TRADING HOUSE ULE (87) OF PART IV OF",
+                "price": "2",
+                "qty": 1
+            },
+            {
+                "name": "_ CONTACT : 11-11-MEAT-1 (6328) FAX : 021-",
+                "price": "3",
+                "qty": 1
+            },
+            {
+                "name": "O : NTN -6 | STRN",
+                "price": "1700402311317",
+                "qty": 1
+            },
+            {
+                "name": "SAM GILL#: \u00a9 O/CH DATE&TIME: 30/01/22 12:",
+                "price": "51",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN KARHAI 0.904 512.00",
+                "price": "508.93",
+                "qty": 1
+            },
+            {
+                "name": "CUT (",
+                "price": "18",
+                "qty": 1
+            },
+            {
+                "name": "MOBILE NO :",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "*-/CH*",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "IY AE",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "PRINT DATE: 30/01/2022 PRINT TIME: 12:51:",
+                "price": "38",
+                "qty": 1
+            },
+            {
+                "name": "SALE OF GOODS BY A COMPANY (FILER);",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "SOFTWARE BY: CIS - PH: 021-",
+                "price": "34521329",
+                "qty": 1
+            }
+        ],
+        "raw_text": "va AL-Shaheer Corporation Ltd. Ora,\nme ta a Trading House ule (87) of Part IV of 2nd Sch. of ! a)\now income Tax Ordinance, 2001 ek,\n\u2014 Jinnah Super Market,Isiamabad fad\n_ Contact : 11-11-MEAT-1 (6328) Fax : 021-38877017 3\nSale Receipt wa\no : NTN 4023113-6 | STRN 1700402311317 r\nSam Gill#: \u00a9 O08168/CH Date&Time: 30/01/22 12:51 pm Eo\n: Customer : : Cash in\nONE User: C-HASAAN Counter: COUNTER A :\nDescription Qty _ Rate Amount 7 e\nCHICKEN KARHAI 0.904 512.00 508.93 , oS :\nCUT ( 18 PIECES) Se,\nan ~*\u00a2\nPa No. Ofitem(s) 1 Total Qty: 0.994 509.00 Pe:\nNet Amount: 509.00 Pk\nTAX Amount 0.00 \u201c&\n@ Cash Paid: 1,000.00 - WS\nme Cash Balance: 491.00 Ney d\nCustomer Name : : yn\nDelivery Add : a\nMobile No : 7\n, Uder: Co\nCall Cen. Agent :\n*000370-008166/CH* 4\niy ae 4\nNO RETURN NO EXCHANGE WITHOUT RECEIPT i -\nPrint Date: 30/01/2022 Print Time: 12:51:38 r * ra\nAs per section 153 of Income Tax Ordinance(ITO) for a on\nSale of goods by a company (filer); 4% withholding a-\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 \u2018a\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.99",
+        "date": "30/01/22",
+        "items": [
+            {
+                "name": "ME TA A TRADING HOUSE ULE (87) OF PART IV OF",
+                "price": "2",
+                "qty": 1
+            },
+            {
+                "name": "_ CONTACT : 11-11-MEAT-1 (6328) FAX : 021-",
+                "price": "3",
+                "qty": 1
+            },
+            {
+                "name": "O : NTN -6 | STRN",
+                "price": "1700402311317",
+                "qty": 1
+            },
+            {
+                "name": "SAM GILL#: \u00a9 O/CH DATE&TIME: 30/01/22 12:",
+                "price": "51",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN KARHAI 0.904 512.00",
+                "price": "508.93",
+                "qty": 1
+            },
+            {
+                "name": "CUT (",
+                "price": "18",
+                "qty": 1
+            },
+            {
+                "name": "MOBILE NO :",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "*-/CH*",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "IY AE",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "PRINT DATE: 30/01/2022 PRINT TIME: 12:51:",
+                "price": "38",
+                "qty": 1
+            },
+            {
+                "name": "SALE OF GOODS BY A COMPANY (FILER);",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "SOFTWARE BY: CIS - PH: 021-",
+                "price": "34521329",
+                "qty": 1
+            }
+        ],
+        "raw_text": "va AL-Shaheer Corporation Ltd. Ora,\nme ta a Trading House ule (87) of Part IV of 2nd Sch. of ! a)\now income Tax Ordinance, 2001 ek,\n\u2014 Jinnah Super Market,Isiamabad fad\n_ Contact : 11-11-MEAT-1 (6328) Fax : 021-38877017 3\nSale Receipt wa\no : NTN 4023113-6 | STRN 1700402311317 r\nSam Gill#: \u00a9 O08168/CH Date&Time: 30/01/22 12:51 pm Eo\n: Customer : : Cash in\nONE User: C-HASAAN Counter: COUNTER A :\nDescription Qty _ Rate Amount 7 e\nCHICKEN KARHAI 0.904 512.00 508.93 , oS :\nCUT ( 18 PIECES) Se,\nan ~*\u00a2\nPa No. Ofitem(s) 1 Total Qty: 0.994 509.00 Pe:\nNet Amount: 509.00 Pk\nTAX Amount 0.00 \u201c&\n@ Cash Paid: 1,000.00 - WS\nme Cash Balance: 491.00 Ney d\nCustomer Name : : yn\nDelivery Add : a\nMobile No : 7\n, Uder: Co\nCall Cen. Agent :\n*000370-008166/CH* 4\niy ae 4\nNO RETURN NO EXCHANGE WITHOUT RECEIPT i -\nPrint Date: 30/01/2022 Print Time: 12:51:38 r * ra\nAs per section 153 of Income Tax Ordinance(ITO) for a on\nSale of goods by a company (filer); 4% withholding a-\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 \u2018a\nwww.cispl.com\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "35758",
+                "qty": 1
+            },
+            {
+                "name": "(256) 123-",
+                "price": "7890",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE 42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "DATE: 4/20/2024 4/20/2024 7:",
+                "price": "02",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "57.79",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "STORE #",
+                "price": "123",
+                "qty": 1
+            },
+            {
+                "name": "LARGE EGGS",
+                "price": "6.17",
+                "qty": 1
+            },
+            {
+                "name": "WILK",
+                "price": "1.88",
+                "qty": 1
+            },
+            {
+                "name": "COTTAGE CHEESE",
+                "price": "1.64",
+                "qty": 1
+            },
+            {
+                "name": "NATURAL YOGURT",
+                "price": "1.70",
+                "qty": 1
+            },
+            {
+                "name": "CHERRY TOMATOES 11B",
+                "price": "3.82",
+                "qty": 1
+            },
+            {
+                "name": "BANANAS 11B",
+                "price": "8.68",
+                "qty": 1
+            },
+            {
+                "name": "AUBERGINE",
+                "price": "2.15",
+                "qty": 1
+            },
+            {
+                "name": "CHEESE CRACKERS 2.",
+                "price": "448",
+                "qty": 1
+            },
+            {
+                "name": "CHOCOLATE COOKIES",
+                "price": "2.29",
+                "qty": 1
+            },
+            {
+                "name": "CANNED TUNA 12PK",
+                "price": "411.98",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN BREAST",
+                "price": "6.79",
+                "qty": 1
+            },
+            {
+                "name": "TOILET PAPER",
+                "price": "8.8",
+                "qty": 1
+            },
+            {
+                "name": "BABY WIPES",
+                "price": "2.99",
+                "qty": 1
+            }
+        ],
+        "raw_text": "SUPERMARKET\nStore #123\nSan Diego, CA\nLarge Eggs 6.17\nWilk 1.88\nCottage Cheese 1.64\nNatural Yogurt 1.70\nCherry Tomatoes 11b 3.82\nBananas 11b 8.68\nAubergine 2.15\nCheese Crackers 2.448\nChocolate Cookies 2.29\nCanned Tuna 12pk 411.98\nChicken Breast 6.79\nToilet Paper 8.8%\nBaby Wipes 2.99\nTOTAL $57.79\n"
+    },
+    {
+        "total": "0.99",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "ME TA A TRADING HOUSE ULE (87) OF PART IV OF",
+                "price": "2",
+                "qty": 1
+            },
+            {
+                "name": "_ CONTACT : 11-11-MEAT-1 (6328) FAX : 021-",
+                "price": "3",
+                "qty": 1
+            },
+            {
+                "name": "O : NTN -6 | STRN",
+                "price": "1700402311317",
+                "qty": 1
+            },
+            {
+                "name": "SAM GILL#: \u00a9 O/CH DATE&TIME: 30/01/22 12:",
+                "price": "51",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN KARHAI 0.904 512.00",
+                "price": "508.93",
+                "qty": 1
+            },
+            {
+                "name": "CUT (",
+                "price": "18",
+                "qty": 1
+            },
+            {
+                "name": "MOBILE NO :",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "*-/CH*",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "IY AE",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "PRINT DATE: 30/01/2022 PRINT TIME: 12:51:",
+                "price": "38",
+                "qty": 1
+            },
+            {
+                "name": "SALE OF GOODS BY A COMPANY (FILER);",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "SOFTWARE BY: CIS - PH: 021-",
+                "price": "34521329",
+                "qty": 1
+            }
+        ],
+        "raw_text": "va AL-Shaheer Corporation Ltd. Ora,\nme ta a Trading House ule (87) of Part IV of 2nd Sch. of ! a)\now income Tax Ordinance, 2001 ek,\n\u2014 Jinnah Super Market,Isiamabad fad\n_ Contact : 11-11-MEAT-1 (6328) Fax : 021-38877017 3\nSale Receipt wa\no : NTN 4023113-6 | STRN 1700402311317 r\nSam Gill#: \u00a9 O08168/CH Date&Time: 30/01/22 12:51 pm Eo\n: Customer : : Cash in\nONE User: C-HASAAN Counter: COUNTER A :\nDescription Qty _ Rate Amount 7 e\nCHICKEN KARHAI 0.904 512.00 508.93 , oS :\nCUT ( 18 PIECES) Se,\nan ~*\u00a2\nPa No. Ofitem(s) 1 Total Qty: 0.994 509.00 Pe:\nNet Amount: 509.00 Pk\nTAX Amount 0.00 \u201c&\n@ Cash Paid: 1,000.00 - WS\nme Cash Balance: 491.00 Ney d\nCustomer Name : : yn\nDelivery Add : a\nMobile No : 7\n, Uder: Co\nCall Cen. Agent :\n*000370-008166/CH* 4\niy ae 4\nNO RETURN NO EXCHANGE WITHOUT RECEIPT i -\nPrint Date: 30/01/2022 Print Time: 12:51:38 r * ra\nAs per section 153 of Income Tax Ordinance(ITO) for a on\nSale of goods by a company (filer); 4% withholding a-\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 \u2018a\nwww.cispl.com\n"
+    },
+    {
+        "total": "3",
+        "date": "Unknown",
+        "category": "TECH",
+        "items": [
+            {
+                "name": "APPLE STORE, GRAFTON STREET",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "1-6 GRAFTON STREET, DUBLIN 2, DO2 XH",
+                "price": "61",
+                "qty": 1
+            },
+            {
+                "name": "DATE: APRIL 9/",
+                "price": "2025",
+                "qty": 1
+            },
+            {
+                "name": "RECEIPT NUMBER:",
+                "price": "967654321",
+                "qty": 1
+            },
+            {
+                "name": "PAYMENT METHOD: VSA **** *#+\u00ab \u00ab+X",
+                "price": "1934",
+                "qty": 1
+            },
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00",
+                "qty": 1
+            },
+            {
+                "name": "(M3 PRO.",
+                "price": "2023",
+                "qty": 1
+            },
+            {
+                "name": "APPLE M3 PRO CHIP WITH",
+                "price": "11",
+                "qty": 1
+            },
+            {
+                "name": "AND",
+                "price": "14",
+                "qty": 1
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77",
+                "qty": 1
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET 7\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025 a\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card -\nPayment Method: Vsa **** *#+\u00ab \u00ab+x 1934\nitem Qty Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00 a\nVAT (23%): \u20ac 643.77 . -\nTotal Paid \u20ac 3,442.77 :\nThank you for shopping at Apple :\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "0.99",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "ME TA A TRADING HOUSE ULE (87) OF PART IV OF",
+                "price": "2",
+                "qty": 1
+            },
+            {
+                "name": "_ CONTACT : 11-11-MEAT-1 (6328) FAX : 021-",
+                "price": "3",
+                "qty": 1
+            },
+            {
+                "name": "O : NTN -6 | STRN",
+                "price": "1700402311317",
+                "qty": 1
+            },
+            {
+                "name": "SAM GILL#: \u00a9 O/CH DATE&TIME: 30/01/22 12:",
+                "price": "51",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN KARHAI 0.904 512.00",
+                "price": "508.93",
+                "qty": 1
+            },
+            {
+                "name": "CUT (",
+                "price": "18",
+                "qty": 1
+            },
+            {
+                "name": "MOBILE NO :",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "*-/CH*",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "IY AE",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "PRINT DATE: 30/01/2022 PRINT TIME: 12:51:",
+                "price": "38",
+                "qty": 1
+            },
+            {
+                "name": "SALE OF GOODS BY A COMPANY (FILER);",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "SOFTWARE BY: CIS - PH: 021-",
+                "price": "34521329",
+                "qty": 1
+            }
+        ],
+        "raw_text": "va AL-Shaheer Corporation Ltd. Ora,\nme ta a Trading House ule (87) of Part IV of 2nd Sch. of ! a)\now income Tax Ordinance, 2001 ek,\n\u2014 Jinnah Super Market,Isiamabad fad\n_ Contact : 11-11-MEAT-1 (6328) Fax : 021-38877017 3\nSale Receipt wa\no : NTN 4023113-6 | STRN 1700402311317 r\nSam Gill#: \u00a9 O08168/CH Date&Time: 30/01/22 12:51 pm Eo\n: Customer : : Cash in\nONE User: C-HASAAN Counter: COUNTER A :\nDescription Qty _ Rate Amount 7 e\nCHICKEN KARHAI 0.904 512.00 508.93 , oS :\nCUT ( 18 PIECES) Se,\nan ~*\u00a2\nPa No. Ofitem(s) 1 Total Qty: 0.994 509.00 Pe:\nNet Amount: 509.00 Pk\nTAX Amount 0.00 \u201c&\n@ Cash Paid: 1,000.00 - WS\nme Cash Balance: 491.00 Ney d\nCustomer Name : : yn\nDelivery Add : a\nMobile No : 7\n, Uder: Co\nCall Cen. Agent :\n*000370-008166/CH* 4\niy ae 4\nNO RETURN NO EXCHANGE WITHOUT RECEIPT i -\nPrint Date: 30/01/2022 Print Time: 12:51:38 r * ra\nAs per section 153 of Income Tax Ordinance(ITO) for a on\nSale of goods by a company (filer); 4% withholding a-\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 \u2018a\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.99",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "ME TA A TRADING HOUSE ULE (87) OF PART IV OF",
+                "price": "2",
+                "qty": 1
+            },
+            {
+                "name": "_ CONTACT : 11-11-MEAT-1 (6328) FAX : 021-",
+                "price": "3",
+                "qty": 1
+            },
+            {
+                "name": "O : NTN -6 | STRN",
+                "price": "1700402311317",
+                "qty": 1
+            },
+            {
+                "name": "SAM GILL#: \u00a9 O/CH DATE&TIME: 30/01/22 12:",
+                "price": "51",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN KARHAI 0.904 512.00",
+                "price": "508.93",
+                "qty": 1
+            },
+            {
+                "name": "CUT (",
+                "price": "18",
+                "qty": 1
+            },
+            {
+                "name": "MOBILE NO :",
+                "price": "7",
+                "qty": 1
+            },
+            {
+                "name": "*-/CH*",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "IY AE",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "PRINT DATE: 30/01/2022 PRINT TIME: 12:51:",
+                "price": "38",
+                "qty": 1
+            },
+            {
+                "name": "SALE OF GOODS BY A COMPANY (FILER);",
+                "price": "4",
+                "qty": 1
+            },
+            {
+                "name": "SOFTWARE BY: CIS - PH: 021-",
+                "price": "34521329",
+                "qty": 1
+            }
+        ],
+        "raw_text": "va AL-Shaheer Corporation Ltd. Ora,\nme ta a Trading House ule (87) of Part IV of 2nd Sch. of ! a)\now income Tax Ordinance, 2001 ek,\n\u2014 Jinnah Super Market,Isiamabad fad\n_ Contact : 11-11-MEAT-1 (6328) Fax : 021-38877017 3\nSale Receipt wa\no : NTN 4023113-6 | STRN 1700402311317 r\nSam Gill#: \u00a9 O08168/CH Date&Time: 30/01/22 12:51 pm Eo\n: Customer : : Cash in\nONE User: C-HASAAN Counter: COUNTER A :\nDescription Qty _ Rate Amount 7 e\nCHICKEN KARHAI 0.904 512.00 508.93 , oS :\nCUT ( 18 PIECES) Se,\nan ~*\u00a2\nPa No. Ofitem(s) 1 Total Qty: 0.994 509.00 Pe:\nNet Amount: 509.00 Pk\nTAX Amount 0.00 \u201c&\n@ Cash Paid: 1,000.00 - WS\nme Cash Balance: 491.00 Ney d\nCustomer Name : : yn\nDelivery Add : a\nMobile No : 7\n, Uder: Co\nCall Cen. Agent :\n*000370-008166/CH* 4\niy ae 4\nNO RETURN NO EXCHANGE WITHOUT RECEIPT i -\nPrint Date: 30/01/2022 Print Time: 12:51:38 r * ra\nAs per section 153 of Income Tax Ordinance(ITO) for a on\nSale of goods by a company (filer); 4% withholding a-\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 \u2018a\nwww.cispl.com\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [],
+        "raw_text": "ine |\nAL-Shaheor Corporation Ltd. Raed.\nts a Trading House ule (87) of Part IV of 2nd Sch. of res.\nIncome Tax Ordinance, 2001 ts gay,\nJinnah Super Market,|siamabad a ;\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 ; -\nNTN 4029118-6 | STRN 1700402311317 .\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm .\nCustomer : : Cash roe\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _Rate Amount Oe\nCHICKEN KARHAI 0.904 512.00 \u00a708.93 -\nCUT ( 18 PIECES) a\nNo. Of Item(s) 1 Total Qty; 0.994 509.00 : Mey.\nNet Amount: 509.00 i oa\n. TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 oY\nCash Balance: 491.00 Say\nCustomer Name : Ca\nDelivery Add :\nMobile No :\nder: . ee\nCall Cen. Agent : \\\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT :\nPrint Date: 30/01/2022 Print Time: 12:54:38 Ln\nAs per section 183 of Income Tax Ordinance(ITQ) for *\nSale of goods by a company (filer); 4% withholding e\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [],
+        "raw_text": "ine |\nAL-Shaheor Corporation Ltd. Raed.\nts a Trading House ule (87) of Part IV of 2nd Sch. of res.\nIncome Tax Ordinance, 2001 ts gay,\nJinnah Super Market,|siamabad a ;\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 ; -\nNTN 4029118-6 | STRN 1700402311317 .\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm .\nCustomer : : Cash roe\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _Rate Amount Oe\nCHICKEN KARHAI 0.904 512.00 \u00a708.93 -\nCUT ( 18 PIECES) a\nNo. Of Item(s) 1 Total Qty; 0.994 509.00 : Mey.\nNet Amount: 509.00 i oa\n. TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 oY\nCash Balance: 491.00 Say\nCustomer Name : Ca\nDelivery Add :\nMobile No :\nder: . ee\nCall Cen. Agent : \\\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT :\nPrint Date: 30/01/2022 Print Time: 12:54:38 Ln\nAs per section 183 of Income Tax Ordinance(ITQ) for *\nSale of goods by a company (filer); 4% withholding e\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "102.43",
+        "date": "4/20/2024",
+        "category": "EXPENSE",
+        "currency": "$",
+        "items": [],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "102.43",
+        "date": "4/20/2024",
+        "category": "EXPENSE",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER,",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER,",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            }
+        ],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [],
+        "raw_text": "ine |\nAL-Shaheor Corporation Ltd. Raed.\nts a Trading House ule (87) of Part IV of 2nd Sch. of res.\nIncome Tax Ordinance, 2001 ts gay,\nJinnah Super Market,|siamabad a ;\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 ; -\nNTN 4029118-6 | STRN 1700402311317 .\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm .\nCustomer : : Cash roe\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _Rate Amount Oe\nCHICKEN KARHAI 0.904 512.00 \u00a708.93 -\nCUT ( 18 PIECES) a\nNo. Of Item(s) 1 Total Qty; 0.994 509.00 : Mey.\nNet Amount: 509.00 i oa\n. TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 oY\nCash Balance: 491.00 Say\nCustomer Name : Ca\nDelivery Add :\nMobile No :\nder: . ee\nCall Cen. Agent : \\\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT :\nPrint Date: 30/01/2022 Print Time: 12:54:38 Ln\nAs per section 183 of Income Tax Ordinance(ITQ) for *\nSale of goods by a company (filer); 4% withholding e\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "EXPENSE",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77",
+                "qty": 1
+            }
+        ],
+        "raw_text": "RECEIPT -\nAPPLE STORE, GRAFTON STREET.\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025 |\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+*\u00ab \u00ab*+%% 4934\nitem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 :\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "currency": "Rs",
+        "items": [
+            {
+                "name": "CREDIT TEND",
+                "price": "27.27",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88sss\nST# 2323 OPS 23432435 TEs 51 TRE 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231852452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT 8 eee eee \u00a344 9999\nAPPROVAL $ 77W166\nREF # 307171075528\nTERMINAL 8 5419885359\nTCR 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 16:12\ntet CUSTOMER COPY tc te &\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER,",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            }
+        ],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "(888) 888 -",
+                "price": "8888",
+                "qty": 1
+            },
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "88888",
+                "qty": 1
+            },
+            {
+                "name": "ST# 2323 OPE  TES 51 TR#",
+                "price": "4354",
+                "qty": 1
+            },
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            },
+            {
+                "name": "ACCOUNT & EEEE EEE",
+                "price": "6449999",
+                "qty": 1
+            },
+            {
+                "name": "APPROVAL # 77W",
+                "price": "166",
+                "qty": 1
+            },
+            {
+                "name": "TC# 1752 5627 3145 9811",
+                "price": "0000",
+                "qty": 1
+            },
+            {
+                "name": "10/17/2020 16:",
+                "price": "12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "(888) 888 -",
+                "price": "8888",
+                "qty": 1
+            },
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "88888",
+                "qty": 1
+            },
+            {
+                "name": "ST# 2323 OPE  TES 51 TR#",
+                "price": "4354",
+                "qty": 1
+            },
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            },
+            {
+                "name": "ACCOUNT & EEEE EEE",
+                "price": "6449999",
+                "qty": 1
+            },
+            {
+                "name": "APPROVAL # 77W",
+                "price": "166",
+                "qty": 1
+            },
+            {
+                "name": "TC# 1752 5627 3145 9811",
+                "price": "0000",
+                "qty": 1
+            },
+            {
+                "name": "10/17/2020 16:",
+                "price": "12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "5758",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE #42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "TCR 1752 5627 3145",
+                "price": "0000",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88sss\nST# 2323 OPS 23432435 TEs 51 TRE 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231852452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT 8 eee eee \u00a344 9999\nAPPROVAL $ 77W166\nREF # 307171075528\nTERMINAL 8 5419885359\nTCR 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 16:12\ntet CUSTOMER COPY tc te &\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "(888) 888 -",
+                "price": "8888",
+                "qty": 1
+            },
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "88888",
+                "qty": 1
+            },
+            {
+                "name": "ST# 2323 OPE  TES 51 TR#",
+                "price": "4354",
+                "qty": 1
+            },
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            },
+            {
+                "name": "ACCOUNT & EEEE EEE",
+                "price": "6449999",
+                "qty": 1
+            },
+            {
+                "name": "APPROVAL # 77W",
+                "price": "166",
+                "qty": 1
+            },
+            {
+                "name": "TC# 1752 5627 3145 9811",
+                "price": "0000",
+                "qty": 1
+            },
+            {
+                "name": "10/17/2020 16:",
+                "price": "12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "(888) 888 -",
+                "price": "8888",
+                "qty": 1
+            },
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "88888",
+                "qty": 1
+            },
+            {
+                "name": "ST# 2323 OPE  TES 51 TR#",
+                "price": "4354",
+                "qty": 1
+            },
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            },
+            {
+                "name": "ACCOUNT & EEEE EEE",
+                "price": "6449999",
+                "qty": 1
+            },
+            {
+                "name": "APPROVAL # 77W",
+                "price": "166",
+                "qty": 1
+            },
+            {
+                "name": "TC# 1752 5627 3145 9811",
+                "price": "0000",
+                "qty": 1
+            },
+            {
+                "name": "10/17/2020 16:",
+                "price": "12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "TCR 1752 5627 3145",
+                "price": "0000",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88sss\nST# 2323 OPS 23432435 TEs 51 TRE 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231852452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT 8 eee eee \u00a344 9999\nAPPROVAL $ 77W166\nREF # 307171075528\nTERMINAL 8 5419885359\nTCR 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 16:12\ntet CUSTOMER COPY tc te &\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "TCR 1752 5627 3145 9811",
+                "price": "000",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88sss\nST# 2323 OPS 23432435 TEs 51 TRE 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231852452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT 8 eee eee \u00a344 9999\nAPPROVAL $ 77W166\nREF # 307171075528\nTERMINAL 8 5419885359\nTCR 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 16:12\ntet CUSTOMER COPY tc te &\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE #42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "ne st\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\niii i iaicsiiaisiia tila aiid\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "STORE",
+                "price": "123",
+                "qty": 1
+            },
+            {
+                "name": "LARGE EGGS",
+                "price": "6.17",
+                "qty": 1
+            },
+            {
+                "name": "WILK",
+                "price": "1.80",
+                "qty": 1
+            },
+            {
+                "name": "COTTAGE CHEESE",
+                "price": "1.64",
+                "qty": 1
+            },
+            {
+                "name": "NATURAL YOGURT",
+                "price": "1.20",
+                "qty": 1
+            },
+            {
+                "name": "BANANAS 1IB",
+                "price": "0.68",
+                "qty": 1
+            },
+            {
+                "name": "RUBERGINE",
+                "price": "2.15",
+                "qty": 1
+            },
+            {
+                "name": "CHEESE CRACKERS",
+                "price": "2.44",
+                "qty": 1
+            },
+            {
+                "name": "CHOCOLATE COOKIES",
+                "price": "2.29",
+                "qty": 1
+            },
+            {
+                "name": "CANNED TUNA 12PK",
+                "price": "11.98",
+                "qty": 1
+            },
+            {
+                "name": "CHICKEN BREAST",
+                "price": "6.79",
+                "qty": 1
+            },
+            {
+                "name": "TOILET PAPER",
+                "price": "8.84",
+                "qty": 1
+            },
+            {
+                "name": "BABY WIPES",
+                "price": "2.99",
+                "qty": 1
+            }
+        ],
+        "raw_text": "SUPERMARKET\nStore #123\nSan Diego, CA\nLarge Eggs 6.17\nWilk 1.80\nCottage Cheese 1.64\nNatural Yogurt 1.20\nCherry Tomatoes 11b 3.82?\nBananas 1ib 0.68\nRubergine 2.15\nCheese Crackers 2.44\nChocolate Cookies 2.29\nCanned Tuna 12pk 11.98\nChicken Breast 6.79\nToilet Paper 8.84\nBaby Wipes 2.99\nTOTAL = $52.79\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "items": [],
+        "raw_text": "ine |\nAL-Shaheor Corporation Ltd. Raed.\nts a Trading House ule (87) of Part IV of 2nd Sch. of res.\nIncome Tax Ordinance, 2001 ts gay,\nJinnah Super Market,|siamabad a ;\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 ; -\nNTN 4029118-6 | STRN 1700402311317 .\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm .\nCustomer : : Cash roe\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _Rate Amount Oe\nCHICKEN KARHAI 0.904 512.00 \u00a708.93 -\nCUT ( 18 PIECES) a\nNo. Of Item(s) 1 Total Qty; 0.994 509.00 : Mey.\nNet Amount: 509.00 i oa\n. TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 oY\nCash Balance: 491.00 Say\nCustomer Name : Ca\nDelivery Add :\nMobile No :\nder: . ee\nCall Cen. Agent : \\\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT :\nPrint Date: 30/01/2022 Print Time: 12:54:38 Ln\nAs per section 183 of Income Tax Ordinance(ITQ) for *\nSale of goods by a company (filer); 4% withholding e\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "EXPENSE",
+        "items": [
+            {
+                "name": "TCR 1752 5627 3145 9811",
+                "price": "000",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88sss\nST# 2323 OPS 23432435 TEs 51 TRE 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231852452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT 8 eee eee \u00a344 9999\nAPPROVAL $ 77W166\nREF # 307171075528\nTERMINAL 8 5419885359\nTCR 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 16:12\ntet CUSTOMER COPY tc te &\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97"
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00"
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88"
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24"
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "57.79",
+        "date": "Unknown",
+        "items": [
+            {
+                "name": "LARGE EGGS",
+                "price": "6.17"
+            },
+            {
+                "name": "WILK",
+                "price": "1.88"
+            },
+            {
+                "name": "COTTAGE CHEESE",
+                "price": "1.64"
+            },
+            {
+                "name": "NATURAL YOGURT",
+                "price": "1.70"
+            },
+            {
+                "name": "CHERRY TOMATOES 11B",
+                "price": "3.82"
+            },
+            {
+                "name": "BANANAS 11B",
+                "price": "8.68"
+            },
+            {
+                "name": "AUBERGINE",
+                "price": "2.15"
+            },
+            {
+                "name": "CHOCOLATE COOKIES",
+                "price": "2.29"
+            },
+            {
+                "name": "CANNED TUNA 12PK",
+                "price": "411.98"
+            },
+            {
+                "name": "CHICKEN BREAST",
+                "price": "6.79"
+            },
+            {
+                "name": "BABY WIPES",
+                "price": "2.99"
+            }
+        ],
+        "raw_text": "SUPERMARKET\nStore #123\nSan Diego, CA\nLarge Eggs 6.17\nWilk 1.88\nCottage Cheese 1.64\nNatural Yogurt 1.70\nCherry Tomatoes 11b 3.82\nBananas 11b 8.68\nAubergine 2.15\nCheese Crackers 2.448\nChocolate Cookies 2.29\nCanned Tuna 12pk 411.98\nChicken Breast 6.79\nToilet Paper 8.8%\nBaby Wipes 2.99\nTOTAL $57.79\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "items": [],
+        "raw_text": "Suvour Food:\n\nau Tote ; Re 12/690 |\nPRA | See\n5 OPE\n"
+    },
+    {
+        "total": "57.79",
+        "date": "Unknown",
+        "items": [
+            {
+                "name": "LARGE EGGS",
+                "price": "6.17"
+            },
+            {
+                "name": "WILK",
+                "price": "1.88"
+            },
+            {
+                "name": "COTTAGE CHEESE",
+                "price": "1.64"
+            },
+            {
+                "name": "NATURAL YOGURT",
+                "price": "1.70"
+            },
+            {
+                "name": "CHERRY TOMATOES 11B",
+                "price": "3.82"
+            },
+            {
+                "name": "BANANAS 11B",
+                "price": "8.68"
+            },
+            {
+                "name": "AUBERGINE",
+                "price": "2.15"
+            },
+            {
+                "name": "CHOCOLATE COOKIES",
+                "price": "2.29"
+            },
+            {
+                "name": "CANNED TUNA 12PK",
+                "price": "411.98"
+            },
+            {
+                "name": "CHICKEN BREAST",
+                "price": "6.79"
+            },
+            {
+                "name": "BABY WIPES",
+                "price": "2.99"
+            }
+        ],
+        "raw_text": "SUPERMARKET\nStore #123\nSan Diego, CA\nLarge Eggs 6.17\nWilk 1.88\nCottage Cheese 1.64\nNatural Yogurt 1.70\nCherry Tomatoes 11b 3.82\nBananas 11b 8.68\nAubergine 2.15\nCheese Crackers 2.448\nChocolate Cookies 2.29\nCanned Tuna 12pk 411.98\nChicken Breast 6.79\nToilet Paper 8.8%\nBaby Wipes 2.99\nTOTAL $57.79\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97"
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00"
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88"
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24"
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97"
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00"
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88"
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24"
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97"
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00"
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88"
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24"
+            },
+            {
+                "name": "TAX 1 7.89%",
+                "price": "2.90"
+            },
+            {
+                "name": "TAX 2 4.50%",
+                "price": "1.28"
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OPE 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.50% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT & eeee eee 6449999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cel]!\nThank You for Shopping With Us!\n10/17/2020 16:12\nse stete CUSTOMER COPY xt ot ate\n"
+    },
+    {
+        "total": "442.77",
+        "date": "Unknown",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00"
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77"
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET 7\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025 a\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card -\nPayment Method: Vsa **** *#+\u00ab \u00ab+x 1934\nitem Qty Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00 a\nVAT (23%): \u20ac 643.77 . -\nTotal Paid \u20ac 3,442.77 :\nThank you for shopping at Apple :\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "57.79",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "items": [
+            {
+                "name": "LARGE EGGS",
+                "price": "6.17"
+            },
+            {
+                "name": "WILK",
+                "price": "1.88"
+            },
+            {
+                "name": "COTTAGE CHEESE",
+                "price": "1.64"
+            },
+            {
+                "name": "NATURAL YOGURT",
+                "price": "1.70"
+            },
+            {
+                "name": "CHERRY TOMATOES 11B",
+                "price": "3.82"
+            },
+            {
+                "name": "BANANAS 11B",
+                "price": "8.68"
+            },
+            {
+                "name": "AUBERGINE",
+                "price": "2.15"
+            },
+            {
+                "name": "CHOCOLATE COOKIES",
+                "price": "2.29"
+            },
+            {
+                "name": "CANNED TUNA 12PK",
+                "price": "411.98"
+            },
+            {
+                "name": "CHICKEN BREAST",
+                "price": "6.79"
+            },
+            {
+                "name": "BABY WIPES",
+                "price": "2.99"
+            }
+        ],
+        "raw_text": "SUPERMARKET\nStore #123\nSan Diego, CA\nLarge Eggs 6.17\nWilk 1.88\nCottage Cheese 1.64\nNatural Yogurt 1.70\nCherry Tomatoes 11b 3.82\nBananas 11b 8.68\nAubergine 2.15\nCheese Crackers 2.448\nChocolate Cookies 2.29\nCanned Tuna 12pk 411.98\nChicken Breast 6.79\nToilet Paper 8.8%\nBaby Wipes 2.99\nTOTAL $57.79\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00"
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77"
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET 7\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025 a\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card -\nPayment Method: Vsa **** *#+\u00ab \u00ab+x 1934\nitem Qty Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00 a\nVAT (23%): \u20ac 643.77 . -\nTotal Paid \u20ac 3,442.77 :\nThank you for shopping at Apple :\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99"
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99"
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99"
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 02",
+                "price": "7.49"
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99"
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49"
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49"
+            },
+            {
+                "name": "SALES TAX",
+                "price": "8.45"
+            },
+            {
+                "name": "TIP",
+                "price": "39.12"
+            }
+        ],
+        "raw_text": "\u2014\u2014\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table 42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "1.00",
+        "date": "Unknown",
+        "category": "DINING",
+        "currency": "Rs",
+        "items": [],
+        "raw_text": "SVESTON\nL ie\ncr er\nPackages Mall Lahore - Uneeb f\nTraders -\nMul imom ot ty Lage May Charrat B Rac Gabon =\nLakoom Pahogtay\n, Sale Recelpt\n\u2014 Tivolce w 1647-17 \u00a5\nOperator Name; Packages Mall\nInvoice Date ; Wer, 20 Auu-2025 4:10PM .\nCllentName: Mi. ASAD ULLAH , ,\nSaleeMan: Mugadas\nCounter: = CC Packages Mall .\nReference # 0\n[tte Name Prica Qty/Wt Disc. Amount |\nSports\n10005561 SV-9352-M-7 |\n9,899 1.000 0.06 9,899\n[Total Ttem 1 TolalQty 1.00 4\n_Net Amount 9,899 . .. &\net j ~ 7. 17 5\nPayment Detail | me a oe\nL Mode Credit Card Amount | ae \u201c i} ,\nCredit Card eeeaw Bark Li. \"9.899 | ne | 7\n. Total 9,899.00 |. om\n_ e164 7-1 ewe ny\nTerme And Condition .\n'*No Cash refunds. '\n\"Exchange within 30 days of purchase fram a )\nRetail Outlet, the original invoice/receipt |s a\n\"prerequisite.\n\"Only products in thelr original packaging, quay\n,complete with all tags, user manuals, and\naccessories, will be considered for Exchange.\n\u201cExchange requests will not be accommodated\nfor products showing signs of wear or those\n' that have been unwrapped,\n\"It is advised to inspect the product at the\n\u2018time of purchase, as the store will not assume\n\u2018responsibility for any damage incurred there\n\u2018after.\ni *Products purchased at full prica, which later :\n\u2018go on sale, will be eligible for exchange at the\n| marked-down prices.\n\u201cItems on sale are not eligible for exchange\n*Nota: All prices are inclusive of taxes\nData Entry Date \u201820-Aug-2025 4:09:45 pM\n4 PrintDate ; 20-Aug-2025 4:10:50 PM\nSoftware Developed By : TochnoSye | Ph:021- 34325117-0 |\nMien technosysint com | Cell: 03339066600 |\n"
+    },
+    {
+        "total": "9899",
+        "date": "Unknown",
+        "category": "DINING",
+        "currency": "Rs",
+        "items": [],
+        "raw_text": "Nawr\n\u201cST\nah\nTO ce Te 2s PE\nPackages Mall Lahore - Uneeb \u2014\nTraders ~\nisl Level tT Pactages Mail Shahrab F Ram: | abare F \u2014\nLahore Pakistan\nSale Receipt ;\nInvoice # 1647-17 *\u00bb\nlOparator Name : Packages Mall\nInvoice Date : Wed, 20-Aug-2025 4:10 PM .\nCllentName: Mi. ASAD ULLAH\nlSalesMan: Muqadas\nCounter: CC Packages Mall\nReference # 0\nTtem Name Price Qty/Wt Disc. Amount\n\u2014_____.__ Sports ____]\n(0005561 SV-9352-M-7\n9,899 1.000 0.00 9,899!\nnn\n[Tot Item 4 Total Qty 1.00 .\n| Net Amount 9,899\nBe . .\n| Payment Detail! . ; [.\ni|__ Mode CreditCard [Amount )| xs ae ig\n| eredit Card pacozan Bark Lid. | 9,859 i ey ne \u2018\nTotal 9,899.00 Rea! [\u2019 mS\ngo\nnn: 19-3) -\n| \u00a9 1647-17 aim\n\u2014\u2014\u2014\u2014\u2014\u2014_\u2014_\u2014 :\nTerms And Condition\n| \u201cNo Cash refunds.\n| \"Exchange within 30 days of purchase froma 7\nRetail Outlet, the original involce/recelpt is a\nprerequisite. te 2g\n|sonly products in their original packaging,\n|complete with all tage, user manuale, and\naccessories, will be considered for Exchange.\nExchange requests will not be accommodated\nfor products showing signe of waar or those\nthat have been unwrapped,\n*It ts advised to inspect the product at the\ntime of purchase, as the store will not assume\nlrespaneibility for any damage Incurred there\n[re hased at full price, which | =\n*Products purchased at full price, which later\ngo on sale, will be aligible for exchange at the\nmarkad-down prices.\n*]tems on sale are not eligible for exchange\n*Note: All prices are inclusive of taxes\nin| teas wy \u2019 Entry Date :20-Aug-2025 4:09:45 PM\neriiieDate : 20-Aug-2025 4:10:50 PM\nSpore taamaned By : FechwoSye | Ph:021- 34325117-9 |\neRe com | Cell: 03330066600 |\n- ++) + \u00ab5pm\n"
+    },
+    {
+        "total": "9899",
+        "date": "Unknown",
+        "category": "DINING",
+        "currency": "Rs",
+        "items": [],
+        "raw_text": "Nawr\n\u201cST\nah\nTO ce Te 2s PE\nPackages Mall Lahore - Uneeb \u2014\nTraders ~\nisl Level tT Pactages Mail Shahrab F Ram: | abare F \u2014\nLahore Pakistan\nSale Receipt ;\nInvoice # 1647-17 *\u00bb\nlOparator Name : Packages Mall\nInvoice Date : Wed, 20-Aug-2025 4:10 PM .\nCllentName: Mi. ASAD ULLAH\nlSalesMan: Muqadas\nCounter: CC Packages Mall\nReference # 0\nTtem Name Price Qty/Wt Disc. Amount\n\u2014_____.__ Sports ____]\n(0005561 SV-9352-M-7\n9,899 1.000 0.00 9,899!\nnn\n[Tot Item 4 Total Qty 1.00 .\n| Net Amount 9,899\nBe . .\n| Payment Detail! . ; [.\ni|__ Mode CreditCard [Amount )| xs ae ig\n| eredit Card pacozan Bark Lid. | 9,859 i ey ne \u2018\nTotal 9,899.00 Rea! [\u2019 mS\ngo\nnn: 19-3) -\n| \u00a9 1647-17 aim\n\u2014\u2014\u2014\u2014\u2014\u2014_\u2014_\u2014 :\nTerms And Condition\n| \u201cNo Cash refunds.\n| \"Exchange within 30 days of purchase froma 7\nRetail Outlet, the original involce/recelpt is a\nprerequisite. te 2g\n|sonly products in their original packaging,\n|complete with all tage, user manuale, and\naccessories, will be considered for Exchange.\nExchange requests will not be accommodated\nfor products showing signe of waar or those\nthat have been unwrapped,\n*It ts advised to inspect the product at the\ntime of purchase, as the store will not assume\nlrespaneibility for any damage Incurred there\n[re hased at full price, which | =\n*Products purchased at full price, which later\ngo on sale, will be aligible for exchange at the\nmarkad-down prices.\n*]tems on sale are not eligible for exchange\n*Note: All prices are inclusive of taxes\nin| teas wy \u2019 Entry Date :20-Aug-2025 4:09:45 PM\neriiieDate : 20-Aug-2025 4:10:50 PM\nSpore taamaned By : FechwoSye | Ph:021- 34325117-9 |\neRe com | Cell: 03330066600 |\n- ++) + \u00ab5pm\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "1-6 GRAFTON STREET, DUBLIN 2, D02 XH",
+                "price": "61",
+                "qty": 1
+            },
+            {
+                "name": "PAYMENT METHOD: VSA **** *+#** SX+E%",
+                "price": "934",
+                "qty": 1
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77",
+                "qty": 1
+            }
+        ],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE #42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014 Sr\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "1-6 GRAFTON STREET, DUBLIN 2, D02 XH",
+                "price": "61",
+                "qty": 1
+            },
+            {
+                "name": "PAYMENT METHOD: VSA **** *+#** SX+E%",
+                "price": "934",
+                "qty": 1
+            },
+            {
+                "name": "VAT (23%): \u20ac",
+                "price": "643.77",
+                "qty": 1
+            }
+        ],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE #42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014 Sr\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [],
+        "raw_text": "Savour Foods\nBayt, \"ana\nPRA See\nee\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "GAS",
+        "currency": "Rs",
+        "items": [
+            {
+                "name": "AER ES , WE HEER! OURS J200T AE 7 INS",
+                "price": "748",
+                "qty": 1
+            }
+        ],
+        "raw_text": "awe\nou et ae M\naan SANS, ay\naa Be\ni ~~ ie { s wy ey\n1 - wey re Weenies\nSV, Nee | | E oe Bb Mt Soho : | Rail\nA. eae i cove anaes Pen NaGLE\nAer es , we heer! ours j200T ae 7 INS 748\nee | oe... peg are!\nWeel i a Sonera arketil Fax: 021 ae = ! Ss crs\nSe [ - once ~\u2014 oarae \u2014\u2014 othe\nee ae | actiaitett Sale: oat 25 1lpm a7 +A\nPigk \u2019 \u2014 7. NIN aa caariing? Ney ci ie\nas vee seein : ee eee\nets Eetiecrenn . \u2018Ghunioe Coit \u2014 eke\nFis See? | Custoniers: SAAN a ee\nPe Kee pale i sae Se ee ee\nas \u201cAl &. Se age: * SoS a shi 800: : eo\nas Sa \u2018User tion. = \u20180.088 = 500T00' [aves ae\ni era I Fa a Sn\nae SS ve oun: #60000! Reads\nBaas. f ae \"9300000: | SE\nee ' Noite) Tawi or aye aa\nHes il! Hector :  peeiat \u201c Hr60) Rey\noN aa, a \u2018GashiBalan are ee\n% oa aif l \u2014_ \u2014 el Py co _ pares\nRES Guster vidal: : a - Lene\nroe eet ane 5 Ve tity ess oY y ; we okt . bates sh\nve. \u201c4 LiMGE : ih . ey Be 16% ee ti 4 I a we\nOS, an Boge teti oe oa beks\nas Se ee oe je [ees\na wri, i a an ei\n=, MB iy spo ayia ISSy\nwee C5 | \u201ces sate 01/202 \u2014\u2014 Sea 1 PRERS\nee\u2019. aH Date:30/041 =. inicomiar Tax Aveil ni agen. hoy\noe od : Yi ues BrL \u2014 a AEG ee 'com:\n\n~ Sle roy Wi\n\n\u201cip rg r Ut\n"
+    },
+    {
+        "total": "5",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "Rs",
+        "items": [],
+        "raw_text": "er pr tnniteeae\nes RECEIPT Ro hE\naeeageced |< ;' APPLE'STORE, DN STREET Ss EE\nSERED gg TORE, GRAFTON STREET Nt Eee:\n=o oe nee Ne Date: April 9/2025\u00bb Be eee\nae [a Seay ae Receipt Numib ae eR Se =\neee cal Ma een Ga er: 987654321 3 Eeseatere\nsensed patriel SUROIRE 0s: COREEEET) eee aT See Soe\nie Sroee AY Visa Credit Card, ii). AMR Ago RS) BREE\naero redit Card. 28\u00b0 vse ON Ss\neee] . \u00abPayment Method: Vsais+++ sne\u00e9 ++ sega Eee\na SR Se eS Yet eda8 gs : oS\nSoe hE Sty Unik Price, Nt see\nSS ve OG dee ANC SAE woe RAN) eS ees\nSoe Ae #5 (M3 Pro. 2023) 2 e820) yeh Ess es\nSaeed | ADD MS Pro ci wth core ced es fh tS Bese\n=e nd 1a-core GPU eh NP ee\n=< 8 1660 Unified Memory eee pee\n= ae {TB SSD Storage. *- Se Ba Sipe hans Serre\neet cease Nitad ve as vi \u2014 nS Bie) Ses\n\nSaeed * - MAT (23% Behe Sas ioe De Yo Eas Bo ae\nSaeed | hy Total Pald ie WA5 Fe gaaa77 | Bese\nBee S40. Thank you for shopping at Apple. ae\nSarees (ae is rece ort ih Bee\n5 eS pes res pt for warranty and support purposes: fats eee\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "AL-SHAHEER CORPORATION LTD. ROME) \u201c",
+                "price": "6",
+                "qty": 1
+            }
+        ],
+        "raw_text": "AL-Shaheer Corporation Ltd. Rome) \u201c6\nts a Trading House ule (87) of Part IV of 2nd Sch. of _\nIncome Tax Ordinance, 2001 a oe\nJinnah Super Market,lslamabad\nContact : 14-11-MEAT-1 (6328) Fax : 021-35877017 .\n,\nNTN 4023118-6 | STRN 1700402311317 :\nBill # 00816/CH Date&Time: 30/01/22 12:54 pm og\nCustomer : : Cash PS\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount a\nCHICKEN KARHA! 0.994 612.00 508.93 ;\nCUT ( 18 PIECES)\nNo. Ofltem{s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\ny TAX Amount 0.00 a \\\n7 Cash Paid: 1,000.00 s\nCash Balance: 491.00 ae\nCustomer Name : be\nDelivery Add :\nMobile No :\nUder: ; ~\nCall Cen. Agent : \\\n*000370-008166/CH* :\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:54:38 a\nAs per section 183 of Income Tax Ordinance({ITO) for \u2018\nSale of goods by a company (filer); 4% withholding \u2019\ntax (WHT) must be deducated by withholding agent\nSoftware By: CIS - Ph: 021-34521329 .\nwww.cispl.com\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "SERVER: STEVEN TABLE #42/",
+                "price": "1",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014 Sr\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\nMadison, AL 35758\n(256) 123-7890\n\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 02 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "\u00a5",
+        "items": [],
+        "raw_text": "=] OUTBACK E==\nwees STEAKHOUSE\u00ae ai\nSeed 1234 E Limestone Ave So\nweet Madison, AL 35758 =\neat (256) 123-7890 a\nSa} Server: Steven Table H2/L Pa\nEaeori Dates 4/20/2024 4/20/2024 7:02PH ISS,\n\nSS] euooem ovtor 10.99 farce\nSimi} RIBEVE 5.99 SSS:\narea] VICTORIA'S FILET 29.99 FSS\nTEL] Foster's Laser, 22 02 mag Ane\nyarns}f HOUSE CABERNET 99 BST\nSSS] cucesteaxe 849 BEES\nESS] THSMER FRON DomN UDER 10.49 FEE\nReq Sototal 102.43. ese\nTSH Sales Tax B45 Pao\nSs. Tip 39.12 Pec\nwind qui i ticks\nwz\u00a5 Total $200.00 Fe=\n"
+    },
+    {
+        "total": "5",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "Rs",
+        "items": [],
+        "raw_text": "er pr tnniteeae\nes RECEIPT Ro hE\naeeageced |< ;' APPLE'STORE, DN STREET Ss EE\nSERED gg TORE, GRAFTON STREET Nt Eee:\n=o oe nee Ne Date: April 9/2025\u00bb Be eee\nae [a Seay ae Receipt Numib ae eR Se =\neee cal Ma een Ga er: 987654321 3 Eeseatere\nsensed patriel SUROIRE 0s: COREEEET) eee aT See Soe\nie Sroee AY Visa Credit Card, ii). AMR Ago RS) BREE\naero redit Card. 28\u00b0 vse ON Ss\neee] . \u00abPayment Method: Vsais+++ sne\u00e9 ++ sega Eee\na SR Se eS Yet eda8 gs : oS\nSoe hE Sty Unik Price, Nt see\nSS ve OG dee ANC SAE woe RAN) eS ees\nSoe Ae #5 (M3 Pro. 2023) 2 e820) yeh Ess es\nSaeed | ADD MS Pro ci wth core ced es fh tS Bese\n=e nd 1a-core GPU eh NP ee\n=< 8 1660 Unified Memory eee pee\n= ae {TB SSD Storage. *- Se Ba Sipe hans Serre\neet cease Nitad ve as vi \u2014 nS Bie) Ses\n\nSaeed * - MAT (23% Behe Sas ioe De Yo Eas Bo ae\nSaeed | hy Total Pald ie WA5 Fe gaaa77 | Bese\nBee S40. Thank you for shopping at Apple. ae\nSarees (ae is rece ort ih Bee\n5 eS pes res pt for warranty and support purposes: fats eee\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [],
+        "raw_text": "| RECEIPT 4\nAPPLE STORE, GRAFTON STREET .\n1-6 Grafton Street, Dublin 2, D02 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa **** *+#** sx+e% 1934\nItem Qty Unit Price\nMacBook Pro 14-inch 4 \u20ac 799.00 |\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00",
+                "qty": 1
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa #*#* *+++ +++ 1234\nItem Qty \u2014_ Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 0Z",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014_\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\n\nMadison, AL 35758\n\n(256) 123-7890\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 0Z 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [],
+        "raw_text": "- ~~ }, \u2014\\\n-\nAig *\nAl-Shaheer Corporation Ltd. OP. 2\nIs a Trading House uls (57) of Part lV of 2nd Sch. of ~\nIncome Tax Ordinance, 2001 te \u2014 ~\nJinnah Super Market,lslamabad\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 SP\nNTN 4023113-6 | STRN 1700402311317\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm {\nCustomer: : Cash \u2018\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount -\nCHICKEN KARHA! 0.994 512.00 508.93 o\nCUT ( 18 PIECES) -\nNo. Ofltem(s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\nTAX Amount 0.00 \u2122\nCash Paid: 4,000.00 >\nCash Balance: 491.00 ~~ :\nCustomer Name :\nDelivery Add :\nMobile No :\nder: e\nCall Cen. Agent :\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:51:38 ND\nAs per section 153 of Income Tax Ordinance(ITO) for ,\nSale of goods by a company (filer); 4% withholding *\ntax (WHT) must be deducated by withholding agent\nSoftware By; CIS - Ph: 021-34521329 :\nwww.cispl.com\n"
+    },
+    {
+        "total": "9899",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "currency": "PKR",
+        "items": [],
+        "raw_text": "c > ay\nSVESTON\nL \u2014\nPhe Tine thr Pvers O% stay\nPackages Mall Lahore - Uneeb \u2019\nTraders\nKiosk Level -1, Py kages Mall Shahrah E Room|, Lahore.\nLahore, Pakistan\n| Sale Receipt\nInvoice # 1647-17 ~\nOperator Name: Packages Mall\nInvoice Date ; Wed, 20-Aug-2025 4:10PM .\nCllentName: Mr. ASAD ULLAH\nSalesMan: Muqadas\nCounter: CC Packages Mall\nReference # 0\nTtem Name Price Qty/Wt Disc Amount\n\u2014\u2014\u2014 eed\n(0005561 SV-9352-M-7\n9,899 1,000 0.00 9,899\n[Total Item 4 TotalQty 1.00 a\n\u2014\u2014\u2014 = ry +\n| Net Amount 9,899\n\u2014\u2014\u2014\nPayment Detail y\nMode Credit Card Amount || 5\" 7\n(Credit Card Meezan Bank Ltd, 9,899 2 { i\n| Total 9,899.00 a\n| \u00a2 \u2014_\n* 1647 =~ 17 \u00ab -_\nTerms And Condition\n|*No Cash refunds,\n\u201cExchange within 30 days of purchase from a ad\n| Retail Outlet, the original invoice/receipt |s a\nprerequisite, _\u2014o*e\n*Only products in their original packaging,\n|complete with all tags, user manuals, and\naccessories, will be considered for Exchange.\n*Exchange requests will not be accommodated\n|for products showing signs of wear or those\nthat have been unwrapped,\n*It Is advised to Inspect the product at the\n|time of purchase, as the store will not assume\nresponsibility for any damage Incurred there\naren d at full price, which! \u2014-\n*Products purchased at full price, which later\nbe on sale, will be eligible for exchange at the\nmarked-down prices,\n*Items on sale are not eligible for exchange\n*Note: All prices are inclusive of taxes\nData Entry Date :20-Aug-2025 4:09:45 PM\nPrint Date ; 20-Aug-2025 4:10:50 PM\nSoftware Developed By ; TachnoSys | Phi021- 34325117-9 |\nww technosysint.com | Cell: 03339066690 |\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "FASHION",
+        "currency": "",
+        "items": [
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "888",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OP# 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT # dk ee 4 9999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 = 16:12\n#ctete CUSTOMER COPY tc\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "FASHION",
+        "currency": "",
+        "items": [
+            {
+                "name": "WALL ST CITY, LA",
+                "price": "888",
+                "qty": 1
+            },
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OP# 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT # dk ee 4 9999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 = 16:12\n#ctete CUSTOMER COPY tc\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "CHICKEN KARHA! 0.994",
+                "price": "508.93",
+                "qty": 1
+            }
+        ],
+        "raw_text": "- ~~ }, \u2014\\\n-\nAig *\nAl-Shaheer Corporation Ltd. OP. 2\nIs a Trading House uls (57) of Part lV of 2nd Sch. of ~\nIncome Tax Ordinance, 2001 te \u2014 ~\nJinnah Super Market,lslamabad\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 SP\nNTN 4023113-6 | STRN 1700402311317\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm {\nCustomer: : Cash \u2018\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount -\nCHICKEN KARHA! 0.994 512.00 508.93 o\nCUT ( 18 PIECES) -\nNo. Ofltem(s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\nTAX Amount 0.00 \u2122\nCash Paid: 4,000.00 >\nCash Balance: 491.00 ~~ :\nCustomer Name :\nDelivery Add :\nMobile No :\nder: e\nCall Cen. Agent :\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:51:38 ND\nAs per section 153 of Income Tax Ordinance(ITO) for ,\nSale of goods by a company (filer); 4% withholding *\ntax (WHT) must be deducated by withholding agent\nSoftware By; CIS - Ph: 021-34521329 :\nwww.cispl.com\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 0Z",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014_\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\n\nMadison, AL 35758\n\n(256) 123-7890\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 0Z 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00",
+                "qty": 1
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa #*#* *+++ +++ 1234\nItem Qty \u2014_ Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "200.00",
+        "date": "4/20/2024",
+        "category": "DINING",
+        "currency": "$",
+        "items": [
+            {
+                "name": "MADISON, AL",
+                "price": "758",
+                "qty": 1
+            },
+            {
+                "name": "BLOOMIN' ONION",
+                "price": "10.99",
+                "qty": 1
+            },
+            {
+                "name": "RIBEYE",
+                "price": "25.99",
+                "qty": 1
+            },
+            {
+                "name": "VICTORIA'S FILET",
+                "price": "29.99",
+                "qty": 1
+            },
+            {
+                "name": "FOSTER'S LAGER, 22 0Z",
+                "price": "7.49",
+                "qty": 1
+            },
+            {
+                "name": "HOUSE CABERNET",
+                "price": "8.99",
+                "qty": 1
+            },
+            {
+                "name": "CHEESECAKE",
+                "price": "8.49",
+                "qty": 1
+            },
+            {
+                "name": "THUNDER FROM DOWN UNDER",
+                "price": "10.49",
+                "qty": 1
+            },
+            {
+                "name": "TIP",
+                "price": "39.12",
+                "qty": 1
+            }
+        ],
+        "raw_text": "\u2014_\nSTEAKHOUSE\u00ae\n1234 E Limestone Ave\n\nMadison, AL 35758\n\n(256) 123-7890\nServer: Steven Table #42/1\nDate: 4/20/2024 4/20/2024 7:02PM\nBLOOMIN' ONION 10.99\nRIBEYE 25.99\nVICTORIA'S FILET 29.99\nFOSTER'S LAGER, 22 0Z 7.49\nHOUSE CABERNET 8.99\nCHEESECAKE 8.49\nTHUNDER FROM DOWN UNDER 10.49\nSubtotal 102.43\nSales Tax 8.45\nTip 39.12\nTotal $200.00\n"
+    },
+    {
+        "total": "509.00",
+        "date": "30/01/22",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "CHICKEN KARHA! 0.994",
+                "price": "508.93",
+                "qty": 1
+            }
+        ],
+        "raw_text": "- ~~ }, \u2014\\\n-\nAig *\nAl-Shaheer Corporation Ltd. OP. 2\nIs a Trading House uls (57) of Part lV of 2nd Sch. of ~\nIncome Tax Ordinance, 2001 te \u2014 ~\nJinnah Super Market,lslamabad\nContact : 11-11-MEAT-1 (6328) Fax : 021-35877017 SP\nNTN 4023113-6 | STRN 1700402311317\nBill #: 008166/CH Date&Time: 30/01/22 12:51 pm {\nCustomer: : Cash \u2018\nUser: C-HASAAN Counter: COUNTER A\nDescription Qty _ Rate Amount -\nCHICKEN KARHA! 0.994 512.00 508.93 o\nCUT ( 18 PIECES) -\nNo. Ofltem(s) 1 Total ty: 0.994 509.00 \u2014\nNet Amount: 509.00 -\nTAX Amount 0.00 \u2122\nCash Paid: 4,000.00 >\nCash Balance: 491.00 ~~ :\nCustomer Name :\nDelivery Add :\nMobile No :\nder: e\nCall Cen. Agent :\n*000370-008166/CH* \u2018\nNO RETURN NO EXCHANGE WITHOUT RECEIPT\nPrint Date: 30/01/2022 Print Time: 12:51:38 ND\nAs per section 153 of Income Tax Ordinance(ITO) for ,\nSale of goods by a company (filer); 4% withholding *\ntax (WHT) must be deducated by withholding agent\nSoftware By; CIS - Ph: 021-34521329 :\nwww.cispl.com\n"
+    },
+    {
+        "total": "27.27",
+        "date": "10/17/2020",
+        "category": "FASHION",
+        "currency": "",
+        "items": [
+            {
+                "name": "HAND TOWEL",
+                "price": "2.97",
+                "qty": 1
+            },
+            {
+                "name": "GATORADE",
+                "price": "2.00",
+                "qty": 1
+            },
+            {
+                "name": "T-SHIRT",
+                "price": "16.88",
+                "qty": 1
+            },
+            {
+                "name": "PUSH PINS",
+                "price": "1.24",
+                "qty": 1
+            }
+        ],
+        "raw_text": "WALL-MART-SUPERSTORE\n(888) 888 - 8888\nMANAGER TOD LINGA\n888 WALL STORE ST\nWALL ST CITY, LA 88888\nST# 2323 OP# 23432435 TES 51 TR# 4354\nHAND TOWEL 075953630184 2.97 X\nGATORADE 068949055223 2.00 X\nT-SHIRT 036231552452 16.88 X\nPUSH PINS 088348997350 1.24 X\nSUBTOTAL 23.09\nTAX 1 7.89% 2.90\nTAX 2 4.90% 1.28\nTOTAL 27.27\nCREDIT TEND 27.27\nCHANGE DUE 0.00\nACCOUNT # dk ee 4 9999\nAPPROVAL # 77W166\nREF # 307171075528\nTERMINAL # 5419885359\nTC# 1752 5627 3145 9811 0000\nGet Free Holiday Savings by Cell!\nThank You for Shopping With Us!\n10/17/2020 = 16:12\n#ctete CUSTOMER COPY tc\n"
+    },
+    {
+        "total": "3442.77",
+        "date": "Unknown",
+        "category": "TECH",
+        "currency": "\u20ac",
+        "items": [
+            {
+                "name": "MACBOOK PRO 14-INCH 1 \u20ac",
+                "price": "799.00",
+                "qty": 1
+            }
+        ],
+        "raw_text": "APPLE STORE, GRAFTON STREET\n1-6 Grafton Street, Dublin 2, DO2 XH61\nDate: April 9/2025\nReceipt Number: 967654321\nPatrick Cusack\nVisa Credit Card\nPayment Method: Vsa #*#* *+++ +++ 1234\nItem Qty \u2014_ Unit Price\nMacBook Pro 14-inch 1 \u20ac 799.00\n(M3 Pro. 2023)\nApple M3 Pro chip with 11-core CPU\nand 14-core GPU\n16GD Unified Memory\n1TB SSD Storage\nSubtotal \u20ac 2,799.00\nVAT (23%): \u20ac 643.77\nTotal Paid \u20ac 3,442.77\nThank you for shopping at Apple\nKeep this receipt for warranty and support purposes.\n"
+    },
+    {
+        "total": "500.00",
+        "date": "Unknown",
+        "category": "EXPENSE",
+        "currency": "\u00a3",
+        "items": [
+            {
+                "name": "GTA! \u00a3",
+                "price": "500",
+                "qty": 1
+            }
+        ],
+        "raw_text": "as Ne\nee = 9 006\nGta! \u00a3500\nSEamMAas SeeSeetenanuaam VUSCCRIS OC\naseorsns\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "EXPENSE",
+        "currency": "",
+        "items": [],
+        "raw_text": "\u2014 @ # \u00b0\u00b0} \u00a9\n: | a)\n, .\nOo\n_\n=\nj=\nui\n: O\n\u00ae)\nys Pe\n"
+    },
+    {
+        "total": "0.00",
+        "date": "Unknown",
+        "category": "EXPENSE",
+        "currency": "$",
+        "items": [],
+        "raw_text": "\u2014 1A\na\nwt\nDes) bash\n= | i\naes NG\neee Werhah |\n<x Ai\" LS\nMes si)\na $8 lat NY:\n\u2014 , - a ) i\nte a INO Ny\na TRIER\nPY\n~~)\n\u201d A\n_\u2014\u2014\u2014\n\n@=\n-\n~\n/\n"
+    },
+    {
+        "total": "385",
+        "date": "Unknown",
+        "category": "EXPENSE",
+        "currency": "",
+        "items": [
+            {
+                "name": "| CHOCOLATE LOG CAKE == 1X.-*115,",
+                "price": "115000",
+                "qty": 1
+            },
+            {
+                "name": "STRAWBERRY LOG CAKE 2X 105,",
+                "price": "210000",
+                "qty": 1
+            }
+        ],
+        "raw_text": "a =\n\u00bb fw -\u2014 \u2014\u2014\u2014\u2014\u2014\nin  \u2014< =.\n| chocolate Log Cake == 1x.-*115,000 115,000\n- bk Snowman Cake Chocolate 1x 60,000 60 ,000 >\nStrawberry Log Cake 2x 105,000 210,000 as\nSub Total 385 ,000\n4 GRAND TOTAL 385 ,000\n> __- VISA MASTER 385,000\nme 8213\n: CHANGE 0\n\u2014\u2014\u2014\u2014\n| ose\n"
+    },
+    {
+        "total": "2406580.00",
+        "date": "Unknown",
+        "category": "GROCERIES",
+        "currency": "",
+        "items": [
+            {
+                "name": "2 UDANG RE 214,",
+                "price": "432000",
+                "qty": 1
+            },
+            {
+                "name": "1 AYM GR JUN NJAN",
+                "price": "108000",
+                "qty": 1
+            },
+            {
+                "name": "1 SAPO TH SEAFOOD",
+                "price": "172000",
+                "qty": 1
+            },
+            {
+                "name": "2 POCAI 3 111,",
+                "price": "222000",
+                "qty": 1
+            },
+            {
+                "name": "1 GURAME FILLET M",
+                "price": "143000",
+                "qty": 1
+            },
+            {
+                "name": "1 BIHUN GORENG JJ",
+                "price": "116000",
+                "qty": 1
+            },
+            {
+                "name": "FOOD",
+                "price": "1213000",
+                "qty": 1
+            },
+            {
+                "name": "SERVICE CHARGE 80,",
+                "price": "580",
+                "qty": 1
+            }
+        ],
+        "raw_text": "le Ae %\n*\n2 UDANG RE 214,000 432,000\n2 =LARGEX==\n1 AYM GR JUN NJAN 108,000\n=MEDIUMK=\n1 SAPO TH SEAFOOD 172,000\n=*LARGE k==\n2 POCAI 3 111,000 222,000\n2  =xMEDIUM*=\n1 GURAME FILLET M 143,000\nASAM MANIS\n1 BIHUN GORENG JJ 116,000\n=kLARGE&==\n5 ICED TEA 12,000 60,000 7\n7 WASI PUTIH 10,000 70,000\nFooD 1,213,000\nBEVERAGES \"60,000\nOTHERS 70,000\n5 SUBTOTAL 1,343,000\nSERVICE CHARGE 80, 580\nTax 10% 142,358\nDU 1,565,938\n"
+    }
+]
